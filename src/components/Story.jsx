@@ -63,7 +63,7 @@ const Story = () => {
             <div className="story-img-mask">
               <div className="story-img-content">
                 <img
-                  src="/img/entrance.webp"
+                  src="img/entrance.webp"
                   alt="entrance"
                   className="object-contain"
                   onMouseLeave={handleMouseLeave}
